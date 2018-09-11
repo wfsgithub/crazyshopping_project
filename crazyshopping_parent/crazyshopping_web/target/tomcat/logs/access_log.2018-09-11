@@ -1,0 +1,2 @@
+0:0:0:0:0:0:0:1 - - [11/Sep/2018:00:17:51 +0800] "GET /brand/findBrand.do HTTP/1.1" 500 25982 http-bio-8081-exec-1 3956
+0:0:0:0:0:0:0:1 - - [11/Sep/2018:00:23:24 +0800] "GET /brand/findBrand.do HTTP/1.1" 200 908 http-bio-8081-exec-1 3774

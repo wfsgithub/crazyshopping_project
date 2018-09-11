@@ -1,0 +1,4 @@
+0:0:0:0:0:0:0:1 - - [10/Sep/2018:23:36:03 +0800] "GET /brand/findBrand.do HTTP/1.1" 500 13447 http-bio-8081-exec-1 15370
+0:0:0:0:0:0:0:1 - - [10/Sep/2018:23:36:05 +0800] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-8081-exec-2 74
+0:0:0:0:0:0:0:1 - - [10/Sep/2018:23:47:32 +0800] "GET /brand/findBrand.do HTTP/1.1" 500 13447 http-bio-8081-exec-1 3407
+0:0:0:0:0:0:0:1 - - [10/Sep/2018:23:51:47 +0800] "GET /brand/findBrand.do HTTP/1.1" 500 13450 http-bio-8081-exec-1 2522
