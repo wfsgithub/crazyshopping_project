@@ -15,7 +15,7 @@ public class 啦拉拉 {
 			}else{
 				
 				
-				System.out.println("");
+				System.out.println("ssss");
 				System.out.println("文件名："+file2.getName());
 			} 
 		}
