@@ -13,6 +13,9 @@ public class 啦拉拉 {
 			if(!file2.isFile()) {
 				printFileName(file2);
 			}else{
+				
+				
+				System.out.println("");
 				System.out.println("文件名："+file2.getName());
 			} 
 		}
